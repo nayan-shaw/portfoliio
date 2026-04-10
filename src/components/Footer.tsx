@@ -68,7 +68,7 @@ export default function Footer() {
             <h4 className="font-bold text-white mb-4">Connect</h4>
             <div className="flex gap-3">
               <a
-                href="https://github.com/Pk320308"
+                href="https://github.com/nayan-shaw"
                 className="footer-link p-2 bg-gray-900 hover:bg-gray-800 border border-gray-800 hover:border-blue-500 text-gray-400 hover:text-blue-400 rounded-lg transition-all"
               >
                 <Github className="w-4 h-4" />
@@ -82,7 +82,7 @@ export default function Footer() {
                 <Linkedin className="w-4 h-4" />
               </a>
               <a
-                href="mailto:pk320308@gmail.com"
+                href="mailto:nayanshaw73@gmail.com"
                 className="footer-link p-2 bg-gray-900 hover:bg-gray-800 border border-gray-800 hover:border-blue-500 text-gray-400 hover:text-blue-400 rounded-lg transition-all"
               >
                 <Mail className="w-4 h-4" />

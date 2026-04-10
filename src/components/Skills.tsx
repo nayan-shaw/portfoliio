@@ -113,7 +113,7 @@ export default function Skills({ sectionRef }: Props) {
           <div className="grid md:grid-cols-2 gap-8">
             {[
               { label: "Frontend Development", percentage: 90 },
-              { label: "Backend Development", percentage: 85 },
+             
               { label: "Database Design", percentage: 80 },
               { label: "DevOps & Deployment", percentage: 75 },
             ].map((skill, i) => (

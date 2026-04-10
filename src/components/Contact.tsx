@@ -96,14 +96,14 @@ export default function Contact({ sectionRef }: Props) {
               {
                 icon: Mail,
                 label: "Email",
-                value: "pk320308@gmail.com",
-                href: "mailto:pk320308@gmail.com",
+                value: "nayanshaw73@gmail.com",
+                href: "mailto:nayanshaw73@gmail.com",
               },
               {
                 icon: Phone,
                 label: "Phone",
-                value: "+916205669598",
-                href: "tel:+916205669598",
+                value: "+9162071 48821",
+                href: "tel:+9162071 48821",
               },
               {
                 icon: MapPin,

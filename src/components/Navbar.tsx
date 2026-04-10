@@ -71,7 +71,7 @@ export default function Navbar({ scrollToSection }: Props) {
 
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://github.com/Pk320308"
+              href="https://github.com/nayan-shaw"
               className="p-2 hover:bg-gray-800 rounded-lg text-gray-400 hover:text-white transition-colors"
               title="GitHub"
             >
@@ -85,7 +85,7 @@ export default function Navbar({ scrollToSection }: Props) {
               <Linkedin className="w-5 h-5" />
             </a>
             <a
-             href="mailto:pk320308@gmail.com"
+             href="mailto:nayanshaw73@gmail.com"
               className="p-2 hover:bg-gray-800 rounded-lg text-gray-400 hover:text-white transition-colors"
               title="Email"
             >
@@ -120,7 +120,7 @@ export default function Navbar({ scrollToSection }: Props) {
             ))}
             <div className="pt-3 border-t border-gray-800 flex gap-3">
               <a
-              href="https://github.com/Pk320308"
+              href="https://github.com/nayan-shaw"
                 className="flex-1 flex items-center justify-center gap-2 py-2 bg-gray-900 hover:bg-gray-800 rounded-lg text-gray-300 hover:text-white transition-colors"
               >
                 <Github className="w-4 h-4" />

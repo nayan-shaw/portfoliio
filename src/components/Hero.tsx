@@ -92,7 +92,7 @@ export default function Hero({ scrollToSection }: Props) {
         <h1 className="slide-up-2 text-5xl sm:text-6xl md:text-7xl text-white mb-4 tracking-tight">
           Hi, I'm{" "}
           <span className="gradient-text">
-            Priyanshu kumar
+            Nayan shaw
           </span>
         </h1>
 
@@ -124,7 +124,7 @@ export default function Hero({ scrollToSection }: Props) {
 
         <div className="fade-in-up flex justify-center gap-4 mb-12">
           <a
-            href="https://github.com/Pk320308"
+            href="https://github.com/nayan-shaw"
             className="p-3 bg-gray-900 hover:bg-gray-800 border border-gray-800 hover:border-blue-500 text-gray-400 hover:text-blue-400 rounded-lg transition-all duration-200 hover:scale-110 active:scale-95 glow-pulse"
           >
             <Github className="w-5 h-5" />
@@ -139,7 +139,7 @@ export default function Hero({ scrollToSection }: Props) {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-             href="mailto:pk320308@gmail.com"
+             href="mailto:nayanshaw73@gmail.com"
             className="p-3 bg-gray-900 hover:bg-gray-800 border border-gray-800 hover:border-blue-500 text-gray-400 hover:text-blue-400 rounded-lg transition-all duration-200 hover:scale-110 active:scale-95"
             style={{ animationDelay: "0.6s" }}
           >
