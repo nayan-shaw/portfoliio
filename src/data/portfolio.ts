@@ -48,18 +48,7 @@ export const projects: Project[] = [
     live: "https://eshop-fronted.vercel.app/",
     featured: true,
   },
-  {
-    id: 3,
-    title: "Portfolio HTML",
-    shortDesc: "Built a personal portfolio website using HTML",
-    description:
-      "Built a personal portfolio website using HTML to showcase projects, skills, and personal information in a clean and structured layout.",
-    tags: ["Html,Css,Javascript"],
-    image: "https://res.cloudinary.com/dq2jknhhf/image/upload/q_auto/f_auto/v1775807088/htmlportfolio_ehpzkq.png",
-    github: "https://github.com/nayan-shaw/Portfolio-html",
-     live: "https://priyanshu-eta.vercel.app/",
-    featured: true,
-  },
+ 
  
 ];
 
